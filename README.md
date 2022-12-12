@@ -3,5 +3,5 @@ I Am
 <b>Milan Lizriadi</b>
 
 <br><br>🧑 **About Me** <br><br>
-&emsp;&emsp;&emsp; **Nationality**&emsp;&emsp;&nbsp;: Indonesia🇪<br>
+&emsp;&emsp;&emsp; **Nationality**&emsp;&emsp;&nbsp;: Indonesia<br>
 &emsp;&emsp;&emsp; **Languages**&emsp;&emsp;&nbsp;: HTML, CSS, JavaScript, Python, Vue<br>
