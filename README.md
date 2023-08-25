@@ -1,4 +1,4 @@
-[![milanz.png](https://i.postimg.cc/fTxRvcPF/milanz.png)](https://postimg.cc/bswPytpH/ef478a65)
+[![milanz.png](https://postimg.cc/PPqZgrsF)](https://postimg.cc/)
 
 
 ### Where you'll find me
