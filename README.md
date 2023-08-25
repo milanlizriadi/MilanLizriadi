@@ -2,7 +2,7 @@
 
 
 ### Where you'll find me
-[![Discord Presence](https://lanyard.cnrad.dev/api/942997631519572059)](https://discord.com/users/942997631519572059&theme=tokyonight)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1125624785083302000)](https://discord.com/users/1125624785083302000)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
