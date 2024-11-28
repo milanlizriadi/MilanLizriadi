@@ -2,7 +2,12 @@
 
 
 # 💫 About Me:
-🤓 Beginner (real) Front-end Web Developer and UI UX Designer<br>🧑‍🎓 Learning Flutter, Unreal and Python<br>❓ Ask me anything! (I will answer as best as i can)<br>💬 Fira Code, Poppins<br>🌑 Dark Theme<br>💔 Programmer dont have any lovers
+🤓 Beginner (real) Front-end Web Developer and UI UX Designer <br>
+🧑‍🎓 Learning Flutter, Unreal and Python <br>
+❓ Ask me anything! (I will answer as best as i can) <br>
+🅰️ Fira Code, Poppins <br>
+🌑 Dark Theme <br>
+💔 Programmer dont have any lovers
 
 
 ### Where you'll find me
